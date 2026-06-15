@@ -2,6 +2,8 @@
 
 A self-hosted, modular analytics dashboard platform designed to replace Metabase. Build custom dashboards with a plugin-like architecture—easily add new dashboards for different data sources.
 
+<img width="1298" height="693" alt="image" src="https://github.com/user-attachments/assets/37830b35-fce0-40d0-accb-245865f7065a" />
+
 ## Features
 
 - **Plugin-based architecture**: Add new dashboards without modifying core code
